@@ -1,3 +1,3 @@
 # backend
 
-* This is youtube clone backend
+* This is backend with login with password auth route
